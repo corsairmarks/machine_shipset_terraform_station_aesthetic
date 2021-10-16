@@ -1,16 +1,20 @@
 # Overview
 
-Summary
+Do you like terraform stations from my mod [Aesthetic Terraform Stations](https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084)?  Do you also want to have properly-skinned terraform stations for the [Machine Shipset](https://steamcommunity.com/sharedfiles/filedetails/?id=2077186491)?  Then this mod is for you!
 
 # Changes
 
-Notes
+Adds a terraform station definition with an active terraforming beam for graphical culture `machine_01`, required for Aesthetic Terraform Stations to apply the correct appearance.
 
 ## Compatibility
 
-Notes
+Should work with practically everything that also works with Machine Shipset and Aesthetic Terraform Stations.  This mod is technically achievement compatible, but its dependencies are not.
+
+Built for Stellaris version 3.1.\* "Lem."
 
 ### Required Dependency Mods
+
+[Aesthetic Terraform Stations](https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084) enables the very old-school terraform stations as visual markers for terraforming planets.
 
 [Machine Shipset](https://steamcommunity.com/sharedfiles/filedetails/?id=2077186491) for the original graphics and other ship-related code.
 
@@ -26,7 +30,7 @@ Notes
 
 ## Source Code
 
-Hosted on [GitHub]()
+Hosted on [GitHub](https://github.com/corsairmarks/machine_shipset_terraform_station_aesthetic)
 
 ### Development Notes
 

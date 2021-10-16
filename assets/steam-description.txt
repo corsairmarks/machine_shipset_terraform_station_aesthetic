@@ -1,3 +1,35 @@
+[h1]Overview[/h1]
 
+Do you like terraform stations from my mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084]Aesthetic Terraform Stations[/url]?  Do you also want to have properly-skinned terraform stations for the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2077186491]Machine Shipset[/url]?  Then this mod is for you!
+
+[h1]Changes[/h1]
+
+Adds a terraform station definition with an active terraforming beam for graphical culture [b]machine_01[/b], required for Aesthetic Terraform Stations to apply the correct appearance.
+
+[h2]Compatibility[/h2]
+
+Should work with practically everything that also works with Machine Shipset and Aesthetic Terraform Stations.  This mod is technically achievement compatible, but its dependencies are not.
+
+Built for Stellaris version 3.1.* "Lem."
+
+[h3]Required Dependency Mods[/h3]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084]Aesthetic Terraform Stations[/url] enables the very old-school terraform stations as visual markers for terraforming planets.
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2077186491]Machine Shipset[/url] for the original graphics and other ship-related code.
+
+[h3]Recommended Companion Mods[/h3]
+
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2628518102]Ringworld Graphical Enhancements[/url], [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2566249278]Shattered Ring Shipset Fix[/url], or [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2522974089]Subtle Polish: A Collection of Fixes and Enhancements[/url] to set your Origin: Shattered Ring empires to have ringworlds matching their shipset (graphical culture).
+
+[url=]Machine Shipset Add-on: Shattered Ring Appearance[/url] ensures that the permanently-destroyed sections for Origin: Shattered Ring using the Machine Shipset properly display as that shipset.  This mod adds missing graphical definitions to the Machine Shipset.
+
+[h2]Changelog[/h2]
+
+See [url=]Change Notes[/url]
+
+[h2]Source Code[/h2]
+
+Hosted on [url=https://github.com/corsairmarks/machine_shipset_terraform_station_aesthetic]GitHub[/url]
 
 [url=https://discord.gg/bHVez2C][img]https://i.imgur.com/4Und3QN.png[/img][/url]
