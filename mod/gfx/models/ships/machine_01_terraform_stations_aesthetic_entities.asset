@@ -4,7 +4,7 @@ entity = {
 	name = "machine_01_aesthetic_terraform_station_entity"
 	pdxmesh = "machine_01_mining_station_mesh"
 	locator = { name = "part1" position = { 0 0 0 } }
-	locator = { name = "beam1" position = { 0 2 0 } scale = 122 rotation = { 0 -90 0 } }
+	locator = { name = "beam1" position = { 0 3 0 } scale = 110 rotation = { 0 -90 0 } }
 	default_state = "idle"
 	state = { name = "idle" state_time = 5
 		start_event = { trigger_once = yes sound = { soundeffect = "amb_terraforming_station_idle_hum" } }
