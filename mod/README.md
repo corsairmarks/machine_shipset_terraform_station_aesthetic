@@ -10,7 +10,7 @@ Adds a terraform station definition with an active terraforming beam for graphic
 
 Should work with practically everything that also works with Machine Shipset and Aesthetic Terraform Stations.  This mod is technically achievement compatible, but its dependencies are not.
 
-Built for Stellaris version 3.4 "Cepheus" and backwards-compatible with versions 3.3 "Libra," 3.2 "Herbert," 3.1 "Lem", and 3.0 "Dick."
+Built for Stellaris version 3.6 "Orion" and backwards-compatible with versions 3.5 "Fornax," 3.4 "Cepheus," 3.3 "Libra," 3.2 "Herbert," 3.1 "Lem", and 3.0 "Dick."
 
 ### Required Dependency Mods
 
@@ -30,6 +30,7 @@ Built for Stellaris version 3.4 "Cepheus" and backwards-compatible with versions
 * 1.1.0 Mark as compatible with Stellaris version 3.2 "Herbert" - no script changes
 * 1.2.0 Mark as compatible with Stellaris version 3.3 "Libra" - no script changes
 * 1.3.0 Mark as compatible with Stellaris version 3.4 "Cepheus" - no script changes
+* 1.4.0 Mark as compatible with Stellaris version 3.6 "Orion" - no script changes
 
 ## Source Code
 
