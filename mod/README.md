@@ -8,21 +8,19 @@ Adds a terraform station definition with an active terraforming beam for graphic
 
 ## Compatibility
 
-Should work with practically everything that also works with Machine Shipset and Aesthetic Terraform Stations.  This mod is technically achievement compatible, but its dependencies are not.
+Should work with practically everything that also works with Machine Shipset and Aesthetic Terraform Stations.
 
 Built for Stellaris version 3.6 "Orion" and backwards-compatible with versions 3.5 "Fornax," 3.4 "Cepheus," 3.3 "Libra," 3.2 "Herbert," 3.1 "Lem", and 3.0 "Dick."
 
 ### Required Dependency Mods
 
-[Aesthetic Terraform Stations](https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084) enables the very old-school terraform stations as visual markers for terraforming planets.
-
-[Machine Shipset](https://steamcommunity.com/sharedfiles/filedetails/?id=2077186491) for the original graphics and other ship-related code.
+* [Aesthetic Terraform Stations](https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084) enables the very old-school terraform stations as visual markers for terraforming planets
+* [Machine Shipset](https://steamcommunity.com/sharedfiles/filedetails/?id=2077186491) for the original graphics and other ship-related code
 
 ### Recommended Companion Mods
 
-[Ringworld Graphical Enhancements](https://steamcommunity.com/sharedfiles/filedetails/?id=2628518102), [Shattered Ring Shipset Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2566249278), or [Subtle Polish: A Collection of Fixes and Enhancements](https://steamcommunity.com/sharedfiles/filedetails/?id=2522974089) to set your Origin: Shattered Ring empires to have ringworlds matching their shipset (graphical culture).
-
-[Machine Shipset Add-on: Shattered Ring Appearance](https://steamcommunity.com/sharedfiles/filedetails/?id=2628980994) ensures that the permanently-destroyed sections for Origin: Shattered Ring using the Machine Shipset properly display as that shipset.  This mod adds missing graphical definitions to the Machine Shipset.
+* [Ringworld Graphical Enhancements](https://steamcommunity.com/sharedfiles/filedetails/?id=2628518102), [Shattered Ring Shipset Fix](https://steamcommunity.com/sharedfiles/filedetails/?id=2566249278), or [Subtle Polish: A Collection of Fixes and Enhancements](https://steamcommunity.com/sharedfiles/filedetails/?id=2522974089) to set your Origin: Shattered Ring empires to have ringworlds matching their shipset (graphical culture)
+* [Machine Shipset Add-on: Shattered Ring Appearance](https://steamcommunity.com/sharedfiles/filedetails/?id=2628980994) ensures that the permanently-destroyed sections for Origin: Shattered Ring using the Machine Shipset properly display as that shipset (adds missing graphical definitions to the Machine Shipset)
 
 ## Changelog
 
@@ -31,6 +29,7 @@ Built for Stellaris version 3.6 "Orion" and backwards-compatible with versions 3
 * 1.2.0 Mark as compatible with Stellaris version 3.3 "Libra" - no script changes
 * 1.3.0 Mark as compatible with Stellaris version 3.4 "Cepheus" - no script changes
 * 1.4.0 Mark as compatible with Stellaris version 3.6 "Orion" - no script changes
+* 1.5.0 Add compatibility trigger for other mods to check whether this one is active
 
 ## Source Code
 
