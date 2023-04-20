@@ -1,5 +1,5 @@
 [h1]Overview[/h1]
-Do you like terraform stations from my mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084]Aesthetic Terraform Stations[/url]?  Do you also want to have properly-skinned terraform stations for the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2077186491]Machine Shipset[/url]?  Then this mod is for you!
+Do you like terraform stations from my mod [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2622411084]Aesthetic Terraform Stations[/url]? Do you also want to have properly-skinned terraform stations for the [url=https://steamcommunity.com/sharedfiles/filedetails/?id=2077186491]Machine Shipset[/url]? Then this mod is for you!
 
 [h1]Changes[/h1]
 Adds a terraform station definition with an active terraforming beam for graphical culture [b]machine_01[/b], required for Aesthetic Terraform Stations to apply the correct appearance.
@@ -7,7 +7,7 @@ Adds a terraform station definition with an active terraforming beam for graphic
 [h2]Compatibility[/h2]
 Should work with practically everything that also works with Machine Shipset and Aesthetic Terraform Stations.
 
-Built for Stellaris version 3.6 "Orion" and backwards-compatible with versions 3.5 "Fornax," 3.4 "Cepheus," 3.3 "Libra," 3.2 "Herbert," 3.1 "Lem", and 3.0 "Dick."
+Built for Stellaris version 3.7 "Canis Minor" and backwards-compatible with versions 3.6 "Orion," 3.5 "Fornax," 3.4 "Cepheus," 3.3 "Libra," 3.2 "Herbert," 3.1 "Lem", and 3.0 "Dick." Not compatible with achievements, but neither are the dependencies.
 
 [h3]Required Dependency Mods[/h3]
 [list]
